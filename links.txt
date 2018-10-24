@@ -1,0 +1,46 @@
+\\hydutil\rnd\training\C# Tutorial videos
+
+https://hydsecure.genzeon.com:8090/
+
+https://github.com/ksaiteja19/Project
+
+https://genzeon.keka.com/#/home
+
+https://genzeon.zoom.us/my/vikram.pendli
+
+https://schoolb.labs.zipschools.com
+
+https://gyandeepvdl.labs.zipschools.com/
+
+https://genzeon.visualstudio.com/sandbox/_git/academy
+
+https://www.yammer.com/genzeon.com/#/threads/inGroup?type=in_group&feedId=15708569&view=all
+
+http://localhost:49312/WebForm10.aspx
+
+https://gznkssample.azurewebsites.net/WebForm1.aspx
+
+http://www.mcseanswers.com/category/70-483-actual-tests/
+http://www.itexams.org/tag/70-483-dumps
+
+---------------------------------------------------------------
+shawn
+https://app.pluralsight.com/library/courses/aspnetcore-mvc-efcore-bootstrap-angular-web/table-of-contents 
+https://app.pluralsight.com/library/courses/entity-framework-core-getting-started/table-of-contents
+https://app.pluralsight.com/library/courses/web-api-design/table-of-contents
+https://app.pluralsight.com/library/courses/aspdotnetcore-implementing-securing-api/table-of-contents
+
+-------------------------------------------------------------
+
+java script
+https://app.pluralsight.com/library/courses/front-end-web-app-html5-javascript-css/table-of-contents
+https://app.pluralsight.com/library/courses/js4cs/table-of-contents
+
+https://app.pluralsight.com/library/courses/aspdotnetcore-web-application-building/table-of-contents
+https://app.pluralsight.com/library/courses/aspdotnet-core-2-0-mvc-application-visual-studio-2017/discussion
+---------------------------------------------------------------------------------------------
+
+sl C:\Users\SKolisetty\Sample\DecryptPluralSightVideos_v1.0\DecryptPluralSightVideos_v1.0
+./DecryptPluralSightVideos /F "C:\Users\SKolisetty\AppData\Local\Pluralsight\courses" /DB "C:\Users\SKolisetty\AppData\Local\Pluralsight\pluralsight.db" /TRANS /RM /OUT
+
+----------------------------------------------------------------------------------------------
