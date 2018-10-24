@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>HTML Table TAG</title>
+    <style>
+        body{
+            font-family: comic sans ms,sans-serif;
+        }
+        table,th,td{
+            border: 2px solid gray;
+            border-collapse: collapse;
+            text-align: center;
+            padding:10px;
+        }
+        #custom thead, #custom tbody{
+            background-color: green;
+            color: white;
+        }
+        #details{
+            color: blue;
+        }
+    </style>
+</head>
+<body>
+
+    <!-- Simple Table -->
+    <h2> Simple Table </h2>
+
+    <table width="50%" align="center" >
+        <caption id="details">Details table 1</caption>
+
+        <thead>
+            <tr>
+                <th>sno</th>
+                <th>name</th>
+                <th>address</th>
+            </tr>
+        </thead>
+        <tbody>
+         <tr>
+           <td>1</td>
+             <td>john</td>
+             <td>usa</td>
+         </tr>
+        <tr>
+            <td>2</td>
+            <td>williams</td>
+            <td>uk</td>
+        </tr>
+        <tr>
+            <td>3</td>
+            <td>adams</td>
+            <td>ussr</td>
+        </tr>
+        </tbody>
+    </table>
+    <!-- Table with Col Span -->
+    <h2> Table with Col Span </h2>
+    <table width="50%" align="center">
+        <caption id="details">Details table 2</caption>
+    <thead>
+    <tr>
+        <th>sno</th>
+        <th colspan="2">name and address</th>
+
+
+    </tr>
+    </thead>
+    <tbody>
+    <tr>
+        <td>1</td>
+        <td>john</td>
+        <td>usa</td>
+    </tr>
+    <tr>
+        <td>2</td>
+        <td>williams</td>
+        <td>uk</td>
+    </tr>
+    <tr>
+        <td>3</td>
+        <td>adams</td>
+        <td>ussr</td>
+    </tr>
+    </tbody>
+    </table>
+
+
+    <!-- Table With Row Span -->
+    <h2> Table With Row Span </h2>
+
+    <table width="50%" align="center">
+        <caption id="details">Details table 3</caption>
+        <thead>
+        <tr>
+            <th>sno</th>
+            <th>name</th>
+            <th>address</th>
+        </tr>
+        </thead>
+        <tbody>
+        <tr>
+            <td rowspan="2">1</td>
+            <td>john</td>
+            <td>usa</td>
+        </tr>
+        <tr>
+            <td>williams</td>
+            <td>uk</td>
+        </tr>
+        <tr>
+            <td>3</td>
+            <td>adams</td>
+            <td>ussr</td>
+        </tr>
+        </tbody>
+    </table>
+    <!-- Custom Table with CSS -->
+    <h2> Custom Table with CSS </h2>
+    <table width="50%" align="center" id="custom">
+        <caption id="details">Details table 4</caption>
+        <thead>
+        <tr>
+            <th>sno</th>
+            <th>name</th>
+            <th>address</th>
+        </tr>
+        </thead>
+        <tbody>
+        <tr>
+            <td >1</td>
+            <td>john</td>
+            <td>usa</td>
+        </tr>
+        <tr>
+            <td>2</td>
+            <td>williams</td>
+            <td>uk</td>
+        </tr>
+        <tr>
+            <td>3</td>
+            <td>adams</td>
+            <td>ussr</td>
+        </tr>
+        </tbody>
+    </table>
+
+
+
+</body>
+</html>
